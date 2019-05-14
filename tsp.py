@@ -276,7 +276,7 @@ def print_solution(manager, routing, assignment):
 
 
 def main():
-    """Entry point of the program."""
+    #Entry point of the program.
     # Instantiate the data problem.
     data = create_data_model()
 
