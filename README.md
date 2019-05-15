@@ -1,7 +1,7 @@
 # TRAVELING SALESMAN PROBLEM
 **Introduction**
 
-  The famous Traveling Salesman Problem is an important category of optimization problems that is mostly encountered in many areas of engineering and science.TSP is one such Np hard problem which is used for comparing different methods and algorithms in combinational optimization. It was defined in the 1800s by the British mathematician Thomas Kirkman and by the Irish mathematician W. R. Hamilton.TSP is a mathematical problem and focused on optimization. It has many applications in science and engineering. For example, in the manufacture of a circuit board, it is important to determine the best order in which a laser will drill thousands of holes. An efficient solution of the problem is reduce the costs for the manufacturer.
+  The famous Traveling Salesman Problem is an important category of optimization problems that is mostly encountered in many areas of engineering and science. TSP is one such Np hard problem which is used for comparing different methods and algorithms in combinational optimization. It was defined in the 1800s by the British mathematician Thomas Kirkman and by the Irish mathematician W. R. Hamilton. TSP is a mathematical problem and focused on optimization. It has many applications in science and engineering. For example, in the manufacture of a circuit board, it is important to determine the best order in which a laser will drill thousands of holes. An efficient solution of the problem is reduce the costs for the manufacturer.
 
 **Description**
 
@@ -11,7 +11,7 @@
   
   In addition to finding solutions to the classical TSP, including the asymmetric cost problems: the distance from point A to point B equals the distance from point B to point A.
   
-  In this example, we consider a salesman traveling in Turkey. The salesman starts in Istanbul and has to visit a set of cities on a business trip before returning home. The problem then consists of finding the shortest tour which visits every city.Also the objective is the same as total travel distance, but this is not always the case. Because of that, it is a good idea to compute the quantity you want to minimize, rather than simply printing the objective.
+  In this example, we consider a salesman traveling in Turkey. The salesman starts in Istanbul and has to visit a set of cities on a business trip before returning home. The problem then consists of finding the shortest tour which visits every city. Also the objective is the same as total travel distance, but this is not always the case. Because of that, it is a good idea to compute the quantity you want to minimize, rather than simply printing the objective.
 
 **Description of the Python Code**
 
